@@ -1,8 +1,9 @@
-Disclaimer: 
+General Info: 
 
-A concise guide/checklist for Swiss SME (KMU) Cybersecurity based on [KMU Checklist](https://www.ncsc.admin.ch/it-sicherheit-fuer-kmus-en) by National Cyber Security Center **NCSC**.
+- A concise guide/checklist for Swiss SMEs (KMUs) Cybersecurity based on the [KMU Checklist](https://www.ncsc.admin.ch/it-sicherheit-fuer-kmus-en)  by the National Cyber Security Center (NCSC).
+- This checklist is a basic level guide and does NOT cover all possible areas of cybersecurity.
 
-# Cybersecurity Checklist for SMEs
+# Cybersecurity Checklist for SMEs - English Version
 
 ## Organisational Measures
 - [ ] **Senior Management Engagement:**
@@ -97,3 +98,102 @@ A concise guide/checklist for Swiss SME (KMU) Cybersecurity based on [KMU Checkl
 
 - [ ] **Encryption:**
   - [ ] Encrypt important data, especially when stored on mobile devices or cloud services.
+     
+
+
+# Checkliste für Cybersicherheit für KMUs - German Version (Deutsche Version) 
+
+
+## Organisatorische Massnahmen
+- [ ] **Information der Geschäftsleitung über Risiken:**
+  - [ ] Abhängigkeit der Geschäftsprozesse von der IT bewerten.
+  - [ ] Auswirkungen von Systemausfällen und möglichen Gegenmassnahmen analysieren.
+
+- [ ] **Risiken als Bestandteil der Governance und des Kontinuitätsmanagements:**
+  - [ ] Alternativen und Rückfallebenen für IT-Systeme definieren.
+  - [ ] Sicherstellen, dass notwendige Arbeiten auch bei IT-Ausfällen erledigt werden können.
+
+- [ ] **Verantwortlichkeiten:**
+  - [ ] Verantwortlichkeiten im Unternehmen für IT-Sicherheit klar definieren.
+  - [ ] Incident Response Plan entwickeln und regelmässig testen.
+
+- [ ] **Zuständigkeiten von Unternehmen und IT-Dienstleistern:**
+  - [ ] Klare Regelungen und Haftungsfragen in Verträgen mit IT-Dienstleistern festlegen.
+
+- [ ] **Mitarbeitersensibilisierung:**
+  - [ ] Regelmässige Schulungen im Umgang mit digitalen Gefahren durchführen.
+  - [ ] Mitarbeitende über aktuelle Bedrohungslagen informieren.
+
+- [ ] **Umgang mit sensiblen Daten:**
+  - [ ] Verbindliche Regeln zur Klassifizierung und Speicherung von Daten erlassen.
+  - [ ] Richtlinien zur Weitergabe von Unternehmensinformationen definieren.
+
+- [ ] **Firmeninformationen im Internet:**
+  - [ ] Mass an veröffentlichten Informationen auf ein Minimum reduzieren.
+  - [ ] Richtlinien für die Nutzung von Unternehmensinformationen durch Mitarbeitende in sozialen Medien erstellen.
+
+- [ ] **Sicherheit von der Beschaffung bis zur Entsorgung der IT-Infrastruktur:**
+  - [ ] Sicherheitsaspekte im gesamten Lebenszyklus der IT-Infrastruktur berücksichtigen.
+  - [ ] Vorgehensweise bei der Ausserbetriebsetzung von IT-Komponenten festlegen.
+
+- [ ] **Passwort-Policy:**
+  - [ ] Mindestlänge von 12 Zeichen und Verwendung von Gross- und Kleinbuchstaben, Zahlen und Sonderzeichen festlegen.
+  - [ ] Zwei-Faktor-Authentisierung einsetzen und Passwortmanager verwenden.
+  - [ ] Mehrfachverwendung von Passwörtern vermeiden.
+
+- [ ] **Zugriffsberechtigungen:**
+  - [ ] Mitarbeitenden nur notwendige Rechte zuweisen.
+  - [ ] Rechte zur Installation von Software einschränken.
+
+- [ ] **E-Banking:**
+  - [ ] Dedizierten Computer für E-Banking nutzen.
+  - [ ] Sicherheitsvorkehrungen mit der Bank besprechen und umsetzen.
+
+## Technische Massnahmen
+- [ ] **Regelmässige Datensicherung:**
+  - [ ] Prozess für regelmässige Datensicherung definieren und umsetzen.
+  - [ ] Sicherungskopien offline speichern und regelmässig testen.
+
+- [ ] **Virenschutz:**
+  - [ ] Virenschutz auf allen Computern installieren und regelmässig aktualisieren.
+  - [ ] Regelmässige Systemscans durchführen.
+
+- [ ] **Firewall:**
+  - [ ] Firewall auf jedem Computer und zusätzlich im Unternehmensnetzwerk verwenden.
+  - [ ] Firewall-Regeln definieren und regelmässig überprüfen.
+
+- [ ] **Sicherheitsupdates:**
+  - [ ] Automatische Installation von Sicherheitsupdates sicherstellen.
+  - [ ] Alle installierten Software und Hardware regelmässig aktualisieren.
+
+- [ ] **Content Management Systeme (CMS):**
+  - [ ] CMS immer aktuell halten und automatische Updates aktivieren.
+  - [ ] Web Application Firewall (WAF) verwenden.
+
+- [ ] **Logdateien:**
+  - [ ] Logdateien für kritische Systeme erstellen und regelmässig prüfen.
+  - [ ] Logdateien mindestens sechs Monate aufbewahren und in den Backup-Prozess einbeziehen.
+
+- [ ] **Netzwerksegmentierung:**
+  - [ ] Unternehmensnetz in separate Bereiche unterteilen.
+  - [ ] Computer der Buchhaltung und Personalabteilung in separaten Netzwerken halten.
+
+- [ ] **Filtern potenziell schädlicher E-Mails:**
+  - [ ] Potenziell schädliche E-Mail Anhänge auf dem E-Mail-Gateway oder Spam-Filter blockieren.
+
+- [ ] **Makros:**
+  - [ ] E-Mail-Anhänge mit Makros blockieren.
+  - [ ] Mitarbeitende über Warnhinweise in Office-Programmen informieren.
+
+- [ ] **Fernzugriffe:**
+  - [ ] Fernzugriffe nur über VPN mit Zwei-Faktor-Authentisierung zulassen.
+
+- [ ] **Cloud-Dienste:**
+  - [ ] Sensible Daten nur lokal speichern und nicht in der Cloud.
+  - [ ] Sicherheitsvorkehrungen des Cloud-Anbieters vor Vertragsabschluss prüfen.
+
+- [ ] **Verschlüsselung:**
+  - [ ] Wichtige Daten verschlüsseln, insbesondere bei Nutzung von Cloud-Diensten und mobilen Geräten.
+
+
+
