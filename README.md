@@ -1,5 +1,6 @@
-# sme-cysec-checklist
-A concise guide/checklist for Swiss SME (KMU) Cybersecurity
+Disclaimer: 
+
+A concise guide/checklist for Swiss SME (KMU) Cybersecurity based on [KMU Checklist](https://www.ncsc.admin.ch/it-sicherheit-fuer-kmus-en) by National Cyber Security Center **NCSC**.
 
 # Cybersecurity Checklist for SMEs
 
