@@ -55,6 +55,11 @@ General Info:
   - [ ] Use a dedicated computer for digital payment transactions.
   - [ ] Implement strict controls for payment processes (e.g., dual control principle).
 
+- [ ] **Supply Chain Risk Management:**
+  - [ ] Integrate supply chain risk management practices to mitigate cybersecurity risks as recommended by NIST SP 800-161r1 (CSCRM).
+  - [ ] Ensure visibility into and control over suppliers' security practices.
+  - [ ] Develop a strategy for assessing and managing supply chain risks throughout the IT product and service lifecycle.
+
 ## Technical Measures
 - [ ] **Regular Data Backups:**
   - [ ] Define and enforce a regular data backup schedule.
